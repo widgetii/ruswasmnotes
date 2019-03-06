@@ -13,6 +13,10 @@
     расширения JavaScript API для браузеров, в частности потоковые компиляцию и
     инстанциорование
 
+## Изменения синтаксиса
+
+* [От 10.2018](https://github.com/WebAssembly/spec/issues/884#issuecomment-426433329)
+
 ## Интерпретаторы
 
 * [Референсный интерпретатор](https://github.com/WebAssembly/spec/blob/master/interpreter/README.md)
